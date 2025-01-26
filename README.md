@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @SaqlainAliSajid
-- 👀 I’m interested in development.
-- 🌱 I’m currently learning CS ..
-- 📫 Contact me at My email
-- 📧 sa9612256@gmail.com
-- 😄 Expert in Ms Word
-- ⚡ Expert in Ms Excel
-- 🎥 Expert in video editing 
-- 👨🏻‍💻 Expert in C++
+Hi 👋, I'm Muhammad Jawad
+🚀 Software Engineer | Full-Stack Developer | Web & App Specialist
+Passionate about building responsive, dynamic, and impactful applications for both web and mobile. With a strong grasp of both frontend and backend development, I’ve worked on numerous projects that demonstrate my ability to create stunning UIs, efficient backends, and seamless user experiences.
 
-<!---
-SaqlainAliSajid/SaqlainAliSajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🛠 Skills:
+
+HTML5 CSS3 JavaScript React.js SCSS Tailwind CSS Three.js Framer Motion Fabric.js GSAP React Native
+
